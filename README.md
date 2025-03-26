@@ -8,8 +8,7 @@ Let me know if you need any modifications! 🚀
 
 📌 **A full-stack Hospital Management System** built with **React.js (Frontend) & Spring Boot (Backend)**, designed to streamline hospital operations like patient management, doctor scheduling, and appointment booking.  
 
-![Project Banner](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22HomePage.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-03-25T10%3A54%3A27.390Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fe8a4fa9f62c94cc4%2FHomePage.png%3FExpires%3D1837594467%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DlW~aHjX0fJd1i4oM71~4Psfl1hyTR7EulVavxhjbPlRxyNaF3ydDcJ6gYLsy~-YFprwc9DpsfmY7kB~4DkZCVnzvdXnO2StPc7f85EcemyytEKxp3tMCwNcOzzRHgY24gkc6ILt2ezFH8xrHy8frlAqzayOQVH1P5spXEpRLPjRn6CmlUJU~26LYPB~gEMdZWvcyyQabSoiLSle46sRPkNFLwIvNpZR8HHvskVOxvGxJVFc7MBPu1INVb7k7F-GRRyYaDyo96KH8Stke-B-FYq9YIUi7y94w8COl6vlh2VcyO1AEvYm4uzoudisvqRWm42VaNyeBPRQ1NL95qjrR6w__%22%7D))  
-*(Replace with actual screenshot)*  
+![Project Banner](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/HomePage.png) 
 
 ---
 
@@ -109,25 +108,10 @@ Now visit **`http://localhost:3000`** in your browser! 🎉
 ---
 
 ## 📸 **Screenshots**
-*(Add actual screenshots of your project here)*  
 
-| Login Page | Dashboard | Appointment Booking |
+| Doctor Appointment List | Admin Dashboard | Room List |
 |------------|----------|---------------------|
-| ![Login](https://via.placeholder.com/300x200?text=Login+Page) | ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | ![Booking](https://via.placeholder.com/300x200?text=Booking) |
-
----
-
-## 📌 **API Endpoints**
-*(Replace with actual API details)*  
-
-| Method | Endpoint | Description |
-|--------|---------|------------|
-| `POST` | `/api/auth/register` | Register a new user |
-| `POST` | `/api/auth/login` | Login user |
-| `GET` | `/api/doctors` | Get all doctors |
-| `POST` | `/api/appointments` | Book an appointment |
-
-Check full API docs **[here](#)**.
+| ![Appointment List](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/DoctorPage.png) | ![Admin](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/AdminPage.png) | ![Room](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/RoomOccupied.png) |
 
 ---
 
