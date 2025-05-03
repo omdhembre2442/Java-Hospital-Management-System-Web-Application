@@ -109,8 +109,8 @@ Now visit **`http://localhost:3000`** in your browser! 🎉
 
 ## 📸 **Screenshots**
 
-| Doctor Appointment List | Admin Dashboard | Room List | Add Product |
-|------------|----------|---------------------|---------------------|
+| Doctor Appointment List | Admin Dashboard | Room List |
+|------------|----------|---------------------|
 | ![Appointment List](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/DoctorPage.png) | ![Admin](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/AdminPage.png) | ![Room](https://github.com/omdhembre2442/Java-Hospital-Management-System-Web-Application/blob/main/frontend/src/components/image/RoomOccupied.png) |
 
 ---
